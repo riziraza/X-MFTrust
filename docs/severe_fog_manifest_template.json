@@ -1,0 +1,11 @@
+[
+  {
+    "label": "success-1",
+    "rgb": "PATH/TO/rgb.png",
+    "thermal": "PATH/TO/thermal.png",
+    "depth": "PATH/TO/depth.png",
+    "prediction": "PATH/TO/prediction.png",
+    "heatmap": "PATH/TO/heatmap.png",
+    "trust": "0.87 (High)"
+  }
+]

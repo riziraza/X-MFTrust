@@ -1,0 +1,28 @@
+seed: 42
+training:
+  optimizer: AdamW
+  learning_rate: 0.0001
+  weight_decay: 0.0001
+  batch_size: 16
+  epochs: 150
+  dropout: 0.2
+  embedding_dim: 256
+  attention_heads: 8
+  hcmtf_layers: 4
+  uncertainty_weight: 0.3
+hardware:
+  gpu: "NVIDIA RTX 3090 24GB"
+  ram_gb: 128
+  python: "3.10"
+  pytorch: "2.1.0"
+  cuda: "11.8"
+  cudnn: "8.9"
+multimodal_alignment:
+  reference: RGB
+  max_timestamp_difference_ms: 50
+fog:
+  beta:
+    clear: 0.00
+    light: 0.02
+    moderate: 0.05
+    severe: 0.08

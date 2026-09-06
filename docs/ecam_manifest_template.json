@@ -1,0 +1,14 @@
+[
+  {
+    "condition": "Clear",
+    "rgb": "PATH/TO/rgb.png",
+    "thermal": "PATH/TO/thermal.png",
+    "lidar": "PATH/TO/lidar.png",
+    "environment": "PATH/TO/environment.png",
+    "ecam_rgb": "PATH/TO/ecam_rgb.png",
+    "ecam_thermal": "PATH/TO/ecam_thermal.png",
+    "ecam_lidar": "PATH/TO/ecam_lidar.png",
+    "ecam_environment": "PATH/TO/ecam_environment.png",
+    "contributions": {"RGB": 0.41, "Thermal": 0.24, "LiDAR": 0.25, "Environmental": 0.10}
+  }
+]

@@ -1,0 +1,6 @@
+condition,mean,std,ci_low,ci_high
+Clear,0.934,0.006,0.927,0.941
+Light fog,0.911,0.007,0.902,0.920
+Moderate fog,0.872,0.009,0.861,0.883
+Severe fog,0.781,0.012,0.766,0.796
+Haze,0.854,0.010,0.842,0.866

@@ -1,0 +1,6 @@
+method,faithfulness,consistency,overhead_ms,modality_aware
+Grad-CAM,0.734,0.762,11.3,No
+SHAP,0.771,0.781,146.2,Partial
+LIME,0.705,0.738,203.5,Partial
+Attention rollout,0.759,0.803,5.8,Partial
+ECAM,0.812,0.846,7.4,Yes

@@ -1,0 +1,6 @@
+condition,RGB,Thermal,LiDAR,Environmental
+Clear,0.41,0.24,0.25,0.10
+Light fog,0.34,0.28,0.27,0.11
+Moderate fog,0.26,0.32,0.30,0.12
+Severe fog,0.17,0.36,0.34,0.13
+Haze,0.23,0.33,0.31,0.13

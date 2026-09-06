@@ -1,0 +1,17 @@
+experiment,method,precision,recall,map50,f1,trust
+main,RGB baseline,0.801,0.774,0.789,0.787,
+main,Conventional multimodal fusion,0.850,0.818,0.836,0.834,
+main,Transformer multimodal baseline,0.873,0.839,0.858,0.856,
+main,X-MFTrust,0.891,0.858,0.883,0.874,0.892
+missing,Full modalities,0.891,0.858,0.883,0.874,0.892
+missing,Without RGB,0.853,0.825,0.846,0.839,0.821
+missing,Without thermal,0.865,0.833,0.857,0.849,0.838
+missing,Without LiDAR,0.869,0.840,0.861,0.854,0.844
+missing,Without environmental,0.884,0.851,0.876,0.867,0.875
+missing,10% corruption,0.876,0.846,0.868,0.861,0.862
+missing,30% corruption,0.851,0.818,0.839,0.834,0.812
+missing,50% corruption,0.816,0.784,0.801,0.800,0.748
+unseen_severe_fog,RGB baseline,0.748,0.696,0.736,0.721,
+unseen_severe_fog,Conventional multimodal,0.774,0.738,0.761,0.756,
+unseen_severe_fog,Transformer multimodal,0.801,0.761,0.786,0.780,
+unseen_severe_fog,X-MFTrust,0.824,0.784,0.811,0.803,

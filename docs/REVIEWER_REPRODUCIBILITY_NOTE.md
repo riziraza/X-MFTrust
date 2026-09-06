@@ -1,0 +1,3 @@
+# Suggested reviewer-response wording
+
+A public reproducibility repository has been prepared for X-MFTrust. It contains the result-generation scripts, metric utilities, fog-model implementation, visualization utilities, configuration files, dataset preparation guidance, and LaTeX/Markdown table-generation scripts. The public datasets themselves are not redistributed; the repository provides links to their official/research distribution pages and documents the expected local directory structure. The numerical result CSV files currently reproduce the illustrative values used during revision drafting and should be replaced by the final experimentally verified measurements before publication.

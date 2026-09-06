@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "X-MFTrust Reproducibility Repository"
+type: software
+message: "If you use this repository, please cite the associated X-MFTrust manuscript."
+authors:
+  - family-names: Raza
+    given-names: Rizwan
+version: 1.0.0
+date-released: 2026-09-06
+license: MIT
